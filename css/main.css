@@ -198,14 +198,14 @@ button{
   border: none;
   background-color: #e0e0e0;
   color: #4f4f4f;
-  cursor: pointer;
+  cursor: no-drop;
 }
 
 .disabledText{
   border: none;
   background-color: transparent;
   color: #4f4f4f;
-  cursor: pointer;
+  cursor: no-drop;
 }
 
 .startIcon{
